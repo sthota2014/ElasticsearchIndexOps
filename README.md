@@ -4,7 +4,7 @@
 
 #Open Kibana and perform this operation
 
-POST object_id_test/product/1
+POST object_id_test/product/1 \n
 {
  "name":"pencils",
  "price":0.50,
