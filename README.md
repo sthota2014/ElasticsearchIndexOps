@@ -5,7 +5,6 @@
 #Open Kibana and perform this operation
 
 POST object_id_test/product/1
-
 {
  "name":"pencils",
  "price":0.50,
