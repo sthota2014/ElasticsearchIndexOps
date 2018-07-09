@@ -16,8 +16,7 @@ POST object_id_test/product/1
 
 #----------------------------------------------------------------------------------------------------
 
-#Submit the job and this fetches all object Ids in the Index 
-#and writes it to /tmp/temp2
+#Submit the job and this fetches all object Ids in the Index and writes it to /tmp/temp2
 
 #----------------------------------------------------------------------------------------------------
 
@@ -34,7 +33,7 @@ Hits are :0
 
 #----------------------------------------------------------------------------------------------------
 
-# Check file contents
+#Check file contents
 
 #----------------------------------------------------------------------------------------------------
 $ cat /tmp/temp2
