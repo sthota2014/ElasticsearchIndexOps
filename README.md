@@ -1,4 +1,4 @@
-# MBP:ElasticsearchIndexOps
+# ElasticsearchIndexOps
 
 #To do the test, we need to put an index with a field "source" in Elasticsearch
 
@@ -16,7 +16,8 @@ POST object_id_test/product/1
 
 #----------------------------------------------------------------------------------------------------
 
-# Submit the job and this fetches all object Ids in the Index and writes it to /tmp/temp2
+#Submit the job and this fetches all object Ids in the Index 
+#and writes it to /tmp/temp2
 
 #----------------------------------------------------------------------------------------------------
 
